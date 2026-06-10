@@ -134,9 +134,9 @@
   init();
 </script>
 
-<div class="my-6 prose">
+<div class="prose">
   <h1>1st Wickham Beavers Game</h1>
-  <p>Tap or click the cards to find the matching pairs.</p>
+  <!-- <p>Tap or click the cards to find the matching pairs.</p> -->
 </div>
 
 <div class="my-6 grid grid-cols-3 gap-2 sm:grid-cols-4 sm:gap-6">
