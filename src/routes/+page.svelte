@@ -124,7 +124,7 @@
             choiceOne = null;
             choiceTwo = null;
             paused = false;
-          }, 1000);
+          }, 2000);
         }
       }
     }
@@ -170,7 +170,7 @@
     {/if}
     <div class="modal-action">
       <form method="dialog">
-        <!-- if there is a button in form, it will close the modal -->
+        <!-- if there is a button in the form, it will close the modal -->
         <button class="btn btn-primary" onclick={init}>Play again</button>
       </form>
     </div>
