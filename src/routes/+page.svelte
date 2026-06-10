@@ -135,7 +135,7 @@
 </script>
 
 <div class="my-6 prose">
-  <h1>Scouts memory game</h1>
+  <h1>1st Wickham Beavers Memory Game</h1>
   <p>Tap or click the cards to find the matching pairs.</p>
 </div>
 
